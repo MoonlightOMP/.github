@@ -4,9 +4,11 @@
 
 ![Moonlight OMP Logo](https://i.imgur.com/aHxqNOp.png)
 
-</div>
+
 Dobrodošli u Moonlight organizaciju na GitHub-u, gde se strast i tehnologija stapaju u jedinstveno iskustvo openmultiplayer sveta. <br>
 Naša vizija je da oživimo legendarnu igru SA:MP kroz Moonlight OpenMultiplayer server, stvarajući epohalno iskustvo za sve igrače.
+
+</div>
 
 <div align="center">
   
