@@ -38,7 +38,7 @@ Da bi iskustvo bilo još bolje, razvijamo specijalne Cleo skripte koje olakšava
 </div>
 
 Project Moonlight nije samo igra - to je mesto gde se igrači okupljaju radi zabave i druženja. <br>
-Naš server nudi raznovrsne aktivnosti i događaje koji omogućavaju igračima da se povežu, deluju zajedno i stvaraju nezaboravne trenutke. <br>
+Naš server nudi raznovrsne aktivnosti i događaje koji omogućavaju igračima da se povežu i stvaraju nezaboravne trenutke. <br>
 Bez obzira da li ste avanturista koji istražuje svet ili socijalni igrač koji voli da se druži, Moonlight ima nešto za svakoga.
 
 <div align="center">
