@@ -17,8 +17,8 @@ Naš tim čine stručnjaci koji su predani ostvarivanju naše misije:
 
 - [YeetDevv](https://github.com/YeetDevv): Kreativna sila iza koncepta, donosi svežinu i inovaciju u naš server.<br>
 - [V01D](https://github.com/TerzicScript): Majstor kodiranja, donosi tehničku stručnost i stabilnost našem serveru.<br>
-- [NermanLegacy](https://github.com/NermanLegacy): Skripter i mlada nada u svetu programiranja, vodi nas kroz izgradnju detaljnih i uzbudljivih sistema.<br>
-- [defakuto](https://github.com/defakuto): Master za podešavanje performansi i održavanje servera, defakuto osigurava da naša igra uvek radi glatko i bez problema.
+- [NermanLegacy](https://github.com/NermanLegacy): Skripter i mlada nada u svetu programiranja, vodi nas kroz izgradnju detaljnih, uzbudljivih sistema.<br>
+- [defakuto](https://github.com/defakuto): Master za podešavanje performansi i održavanje servera, osigurava da naša igra uvek radi glatko bez problema.
 
 <div align="center">
   
@@ -26,7 +26,7 @@ Naš tim čine stručnjaci koji su predani ostvarivanju naše misije:
 </div>
 
 Project Moonlight ne donosi samo običan server. <br>
-Ovde ćete pronaći naš javni launcher, koji vam omogućava jednostavno povezivanje i pristup našem serveru. <br>
+Ovde ćete pronaći naš launcher, koji vam omogućava jednostavno povezivanje i pristup našem serveru. <br>
 Takođe, imamo bogat modpack koji dodaje dodatne sadržaje i dubinu igri. <br>
 Da bi iskustvo bilo još bolje, razvijamo specijalne Cleo skripte koje olakšavaju igranje i pružaju korisne alate i mogućnosti igračima.
 
@@ -37,7 +37,7 @@ Da bi iskustvo bilo još bolje, razvijamo specijalne Cleo skripte koje olakšava
 
 Project Moonlight nije samo igra - to je mesto gde se igrači okupljaju radi zabave i druženja. <br>
 Naš server nudi raznovrsne aktivnosti i događaje koji omogućavaju igračima da se povežu, deluju zajedno i stvaraju nezaboravne trenutke. <br>
-Bez obzira da li ste avanturista koji istražuje svet ili socijalni igrač koji voli da se druži, Moonlight OMP ima nešto za svakoga.
+Bez obzira da li ste avanturista koji istražuje svet ili socijalni igrač koji voli da se druži, Moonlight ima nešto za svakoga.
 
 <div align="center">
 
