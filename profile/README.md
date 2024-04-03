@@ -46,7 +46,7 @@ Bez obzira da li ste avanturista koji istražuje svet ili socijalni igrač koji 
 ## Discord Server
 </div>
 
-Pridružite se našoj zajednici na [Discord serveru](https://discord.gg/FF2pAZRk)! <br>
+Pridružite se našoj zajednici na [Discord serveru](https://discord.gg/SfGtJTGasN)! <br>
 Tamo možete pronaći najnovije vesti, interaktivne događaje i priliku da se povežete sa ostalim igračima.
 
 <div align="center">
