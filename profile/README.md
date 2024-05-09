@@ -20,7 +20,7 @@ Naš tim čine stručnjaci koji su predani ostvarivanju naše misije:
 - [YeetDevv](https://github.com/YeetDevv): Kreativna sila iza koncepta, donosi svežinu i inovaciju u naš server.<br>
 - [V01D](https://github.com/TerzicScript): Majstor kodiranja, donosi tehničku stručnost i stabilnost našem serveru.<br>
 - [NermanLegacy](https://github.com/NermanLegacy): Skripter i mlada nada u svetu programiranja, vodi nas kroz izgradnju detaljnih, uzbudljivih sistema.<br>
-- [defakuto](https://github.com/defakuto): Master za podešavanje performansi i održavanje servera, osigurava da naša igra uvek radi glatko bez problema.
+- [Nouddy](https://github.com/nouddy): Tu da pomogne na serveru, odlican i marljiv skripter i uvijek gleda da je sve kako treba i bez bugova.
 
 <div align="center">
   
